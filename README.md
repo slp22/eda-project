@@ -14,7 +14,7 @@ To do this, you will take advantage of free, accessible data about the patterns 
 ### Your Backstory
 This is a fairly free-form project, and creativity is welcome. The client organization can be real or imaginary, a private company or a social sector group, anything you desire. For instance, you may decide that a non-profit organization has approached you, soliciting your help. Here is an example email that a former group "received" from a non-profit.
 
-#### Components
+### Components
 Metis projects are broken down into 5 component parts -- design, data, algorithms, tools, and communication -- that are each scored individually. Below is a description of each component as it relates to this project. For more detail on how these components are graded and how extra points are rewarded, refer to the project success guide.
 
 #### Design:
@@ -37,10 +37,10 @@ Other tools not covered in the course are optional but welcome
 Major examples of applicable tools not covered in the course:
 Processing tools could include Google Cloud or Amazon Web Services for cloud computing resources
 Visualization tools could include more advanced python libraries such as Bokeh and Plotly or resources outside of python such as Tableau
-Communication:
+#### Communication:
 Students will deliver a 5-minute slide presentation at the end of the course. These should be given in a compelling, clear manner and include effective visuals for communicating your objectives and findings. Use this as a guide for putting together your slides.
-You will also submit a ~1-page written description summarizing your work: it should begin with a ~100-word abstract to be followed by a breakdown of your project along with the 5 major components. For guidance on writing an effective abstract check out this resource (Links to an external site.).
-#### Deliverables:
+You will also submit a ~1-page written description summarizing your work: it should begin with a ~100-word abstract to be followed by a breakdown of your project along with the 5 major components. For guidance on writing an effective abstract check out this [resource](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/).
+### Deliverables:
 Please submit all project deliverables through Canvas.
 For exact deliverable dates, refer to the main schedule.
 For exact deliverable details, refer to the Metis Fundamentals project deliverable templates:
