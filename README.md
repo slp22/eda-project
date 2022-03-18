@@ -1,5 +1,3 @@
-# Addressing Health Equity with Mobile COVID Testing
-
 #MadeAtMetis
 
 # EXPLORATORY DATA ANALYSIS
