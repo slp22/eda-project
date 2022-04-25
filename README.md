@@ -1,4 +1,4 @@
-#MadeAtMetis | Exploratory Data Analysis | Deliverables
+#MadeAtMetis | Exploratory Data Analysis Deliverables
 
 ## Addressing Health Equity with Mobile COVID Testing   
 
